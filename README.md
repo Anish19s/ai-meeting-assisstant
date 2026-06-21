@@ -87,6 +87,9 @@ ai-meeting-assistant/
 
 ---
 
+## Live Demo
+🔗 Live demo:https://k9p3cbjw6o6tt2btqvbahx.streamlit.app/
+
 ##  Installation (Local Setup)
 
 ```
