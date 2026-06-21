@@ -11,11 +11,11 @@ It automates meeting understanding by combining speech recognition, large langua
 *  **Audio Transcription** using Whisper (faster-whisper)
 *  **AI Meeting Summarization** using Gemini LLM
 *  Extracts:
-  * Executive Summary
-  * Action Items
-  * Key Decisions
-  * Risks & Concerns
-  * Open Questions
+  ** Executive Summary
+  ** Action Items
+  ** Key Decisions
+  ** Risks & Concerns
+  ** Open Questions
 *  **RAG-based Q&A System** over meeting transcripts
 *  Semantic search using FAISS vector database
 *  Interactive Streamlit web interface
