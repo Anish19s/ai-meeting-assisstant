@@ -13,3 +13,4 @@ models/
 *.m4a
 
 .env
+.streamlit/secrets.toml
