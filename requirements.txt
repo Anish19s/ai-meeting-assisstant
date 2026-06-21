@@ -1,3 +1,5 @@
+torch
+torchaudio
 streamlit
 numpy
 scipy
