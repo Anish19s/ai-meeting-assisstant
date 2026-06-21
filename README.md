@@ -11,7 +11,6 @@ It automates meeting understanding by combining speech recognition, large langua
 *  **Audio Transcription** using Whisper (faster-whisper)
 *  **AI Meeting Summarization** using Gemini LLM
 *  Extracts:
-
   * Executive Summary
   * Action Items
   * Key Decisions
